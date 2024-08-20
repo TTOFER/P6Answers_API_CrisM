@@ -1,0 +1,6 @@
+@P6Answers_API_CrisM_HostAddress = http://localhost:5018
+
+GET {{P6Answers_API_CrisM_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

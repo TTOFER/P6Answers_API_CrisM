@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P6Answers_API_CrisM", "P6Answers_API_CrisM\P6Answers_API_CrisM.csproj", "{7979E10B-1865-465A-81D1-CC3298688391}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7979E10B-1865-465A-81D1-CC3298688391}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7979E10B-1865-465A-81D1-CC3298688391}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7979E10B-1865-465A-81D1-CC3298688391}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7979E10B-1865-465A-81D1-CC3298688391}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B8E6DB77-C49A-4038-9670-3349D793B027}
+	EndGlobalSection
+EndGlobal
